@@ -1,0 +1,11 @@
+{
+  "appId": "com.ctrlspace.app",
+  "appName": "CTRL+SPACE",
+  "webDir": "www",
+  "server": {
+    "url": "http://10.0.2.2:8000/app",
+    "cleartext": true
+  },
+  "android": { "backgroundColor": "#050B1A" },
+  "ios": { "backgroundColor": "#050B1A", "contentInset": "never" }
+}

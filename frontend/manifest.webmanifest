@@ -1,0 +1,75 @@
+{
+ "id": "/",
+ "name": "CTRL+SPACE — Explore. Research. Discover.",
+ "short_name": "CTRL+SPACE",
+ "description": "Evidence-first NASA fire research: discover reports, ask an AI that cites its sources, compare experiments, read offline.",
+ "start_url": "/app?source=pwa",
+ "scope": "/",
+ "display": "standalone",
+ "display_override": [
+  "standalone",
+  "minimal-ui"
+ ],
+ "orientation": "portrait",
+ "background_color": "#050B1A",
+ "theme_color": "#050B1A",
+ "categories": [
+  "education",
+  "science",
+  "research"
+ ],
+ "lang": "en",
+ "dir": "ltr",
+ "icons": [
+  {
+   "src": "/assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/assets/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Ask AI",
+   "url": "/app/assistant",
+   "icons": [
+    {
+     "src": "/assets/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Discover research",
+   "url": "/app/research",
+   "icons": [
+    {
+     "src": "/assets/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Compare experiments",
+   "url": "/app/compare",
+   "icons": [
+    {
+     "src": "/assets/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  }
+ ]
+}

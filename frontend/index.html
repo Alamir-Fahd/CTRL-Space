@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CTRL+SPACE · NASA fire research explorer</title>
+<meta name="description" content="Evidence-first web application for NASA microgravity combustion research.">
+<meta name="theme-color" content="#05070F">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CTRL+SPACE">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="icon" href="/assets/icon-192.png">
+<link rel="preload" href="/assets/hero.jpg" as="image">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+<div id="splash" class="splash" role="status" aria-live="polite">
+  <div class="splash-art" aria-hidden="true"></div>
+  <div class="splash-mark"><span class="bracket" aria-hidden="true"></span>ctrl <span class="plus">+</span> space</div>
+  <p class="splash-tag">NASA fire research, grounded in evidence</p>
+  <div class="splash-bar" aria-hidden="true"><i></i></div>
+  <p class="splash-status" id="splash-status">Starting…</p>
+</div>
+<a class="skip" href="#main" target="_self">Skip to content</a>
+<div id="offline" class="offline" hidden>You’re offline or the server can’t be reached. Saved research is shown where available.</div>
+<div class="shell">
+  <aside class="side" aria-label="Main navigation">
+    <a class="brand" href="/" aria-label="CTRL+SPACE dashboard"><span class="bracket" aria-hidden="true"></span><span>ctrl <span class="plus">+</span> space</span></a>
+    <nav>
+      <p class="navgroup">Research</p>
+      <a href="/">Dashboard</a>
+      <a href="/research">Research Discovery</a>
+      <a href="/library">Evidence Library</a>
+      <a href="/experiments">Experiments</a>
+      <a href="/compare">Compare</a>
+      <a href="/assistant">Research Assistant</a>
+      <a href="/my-research">My Research</a>
+      <a href="/gaps">Research Gaps</a>
+      <p class="navgroup">Learn and share</p>
+      <a href="/studio">Learning Studio</a>
+      <a href="/challenges">Challenges</a>
+      <a href="/community">Community</a>
+      <a href="/demo">Demo mode</a>
+      <p class="navgroup">Account</p>
+      <a href="/profile">Profile</a>
+      <a href="/settings">Settings</a>
+      <a href="/admin" data-admin hidden>Admin</a>
+    </nav>
+    <p class="side-foot">Not affiliated with or endorsed by NASA.</p>
+  </aside>
+  <div class="content">
+    <header class="top"><div class="topin">
+      <button class="btn ghost sm menu" data-act="menu" aria-label="Open navigation">Menu</button>
+      <a class="brand mob" href="/" aria-label="CTRL+SPACE dashboard"><span class="bracket" aria-hidden="true"></span><span>ctrl <span class="plus">+</span> space</span></a>
+      <div class="acct" id="acct"></div>
+    </div></header>
+    <main id="main" tabindex="-1"></main>
+    <footer><div>CTRL+SPACE is an independent student research tool. It is not affiliated with, endorsed or certified by NASA. Sources are public records from the NASA Technical Reports Server (ntrs.nasa.gov). AI answers and lesson explanations are reading aids, not primary evidence. The NASA name is used only to identify sources.</div></footer>
+  </div>
+</div>
+<nav class="tabbar" aria-label="App">
+  <a href="/" data-tab="/"><span class="ti" aria-hidden="true">⌂</span>Home</a>
+  <a href="/research" data-tab="/research"><span class="ti" aria-hidden="true">⌕</span>Research</a>
+  <a href="/assistant" data-tab="/assistant"><span class="ti" aria-hidden="true">✦</span>Ask</a>
+  <a href="/compare" data-tab="/compare"><span class="ti" aria-hidden="true">⇄</span>Compare</a>
+  <a href="/my-research" data-tab="/my-research"><span class="ti" aria-hidden="true">☰</span>Mine</a>
+</nav>
+<div class="scrim" data-act="menu"></div>
+<dialog id="dlg" aria-label="Details"><button class="btn ghost sm dlg-close" id="dlg-close">Close</button><div id="dlg-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

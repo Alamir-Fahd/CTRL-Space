@@ -1,0 +1,21 @@
+{
+  "name": "ctrl-space-native",
+  "version": "5.2.0",
+  "private": true,
+  "description": "Native Android + iOS shell (Capacitor) for the CTRL+SPACE mobile app at /app. Built in CI or on a developer machine; NOT built in the original build environment.",
+  "scripts": {
+    "icons": "npx @capacitor/assets generate --iconBackgroundColor '#050B1A' --splashBackgroundColor '#050B1A'",
+    "android": "npx cap add android && npm run icons && npx cap sync android",
+    "ios": "npx cap add ios && npm run icons && npx cap sync ios",
+    "apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/ios": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.0"
+  }
+}

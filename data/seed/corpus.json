@@ -1,0 +1,1377 @@
+{
+ "retrieved_at": "2026-11-12",
+ "source": "NASA Technical Reports Server (https://ntrs.nasa.gov)",
+ "verified_note": "Each passage was copied verbatim from the NTRS PDF or record page named by report_id and checked on retrieval date.",
+ "fields": [
+  {
+   "key": "material",
+   "label": "Material",
+   "group": "condition"
+  },
+  {
+   "key": "geometry",
+   "label": "Geometry",
+   "group": "condition"
+  },
+  {
+   "key": "size",
+   "label": "Sample size",
+   "group": "condition"
+  },
+  {
+   "key": "flowDir",
+   "label": "Flow direction",
+   "group": "condition"
+  },
+  {
+   "key": "flow",
+   "label": "Flow velocity",
+   "group": "condition"
+  },
+  {
+   "key": "oxygen",
+   "label": "Oxygen",
+   "group": "condition"
+  },
+  {
+   "key": "oxygenBasis",
+   "label": "Oxygen basis",
+   "group": "condition"
+  },
+  {
+   "key": "pressure",
+   "label": "Pressure",
+   "group": "condition"
+  },
+  {
+   "key": "temperature",
+   "label": "Temperature",
+   "group": "condition"
+  },
+  {
+   "key": "gravity",
+   "label": "Gravity condition",
+   "group": "condition"
+  },
+  {
+   "key": "apparatus",
+   "label": "Experimental apparatus",
+   "group": "condition"
+  },
+  {
+   "key": "tests",
+   "label": "Tests",
+   "group": "measurement"
+  },
+  {
+   "key": "result",
+   "label": "Reported result",
+   "group": "measurement"
+  }
+ ],
+ "reports": [
+  {
+   "id": "20150019858",
+   "title": "Results from On-Board CSA-CP and CDM Sensor Readings During the Burning and Suppression of Solids II (BASS-II) Experiment in the Microgravity Science Glovebox (MSG)",
+   "doc_type": "Conference paper",
+   "published": "2015-07-12",
+   "report_number": "ICES-2015-196",
+   "program": "BASS-II",
+   "center": "Glenn Research Center",
+   "authors": "Olson, S. L.; Ferkul, P. V.; Bhattacharjee, S.; Miller, F. J.; Fernandez-Pello, C.; Link, S.; T’ien, J. S.; Wichman, I.",
+   "rights": "Public use permitted",
+   "indexed": true,
+   "loc_kind": "page",
+   "pdf_url": "https://ntrs.nasa.gov/api/citations/20150019858/downloads/20150019858.pdf",
+   "source_url": "https://ntrs.nasa.gov/citations/20150019858",
+   "categories": [
+    "Combustion products",
+    "Hardware and methods"
+   ],
+   "keywords": [
+    "combustion products",
+    "oxygen",
+    "International Space Station"
+   ],
+   "abstract": null
+  },
+  {
+   "id": "20160000593",
+   "title": "Combustion of Solids in Microgravity: Results from the BASS-II Experiment",
+   "doc_type": "Presentation (poster)",
+   "published": "2014-10-23",
+   "report_number": "GRC-E-DAA-TN18274",
+   "program": "BASS-II",
+   "center": "Glenn Research Center",
+   "authors": "Ferkul, P. V.; Bhattacharjee, S.; Fernandez-Pello, C.; Miller, F.; Olson, S. L.; Takahashi, F.; T’ien, J. S.",
+   "rights": "Public use permitted",
+   "indexed": true,
+   "loc_kind": "section",
+   "pdf_url": "https://ntrs.nasa.gov/api/citations/20160000593/downloads/20160000593.pdf",
+   "source_url": "https://ntrs.nasa.gov/citations/20160000593",
+   "categories": [
+    "Flame spread",
+    "Extinction and flammability limits",
+    "Hardware and methods"
+   ],
+   "keywords": [
+    "Combustion",
+    "Fire Safety",
+    "Microgravity"
+   ],
+   "abstract": null
+  },
+  {
+   "id": "20240007488",
+   "title": "Preliminary Results from the Saffire VI Experiment (presentation)",
+   "doc_type": "Presentation",
+   "published": "2024-07-21",
+   "report_number": "—",
+   "program": "Saffire",
+   "center": "Glenn Research Center",
+   "authors": "Urban, D. L.; Ruff, G. A.; Ferkul, P.; Easton, J.; Owens, J.; Olson, S.; and 15 more",
+   "rights": "Portions may include copyright protected material",
+   "indexed": true,
+   "loc_kind": "slide",
+   "pdf_url": "https://ntrs.nasa.gov/api/citations/20240007488/downloads/Saffire%20ICES%202024%20Saffire%20presentation072124small.pdf",
+   "source_url": "https://ntrs.nasa.gov/citations/20240007488",
+   "categories": [
+    "Spacecraft fire safety",
+    "Large-scale fire tests"
+   ],
+   "keywords": [
+    "fire",
+    "microgravity"
+   ],
+   "abstract": "The preliminary results are presented for one test of the last flight of the Spacecraft Fire Experiment (Saffire VI) which was conducted on an orbiting Cygnus spacecraft. These experiments directly address the risks associated with our understanding of spacecraft fire behavior at practical length scales and geometries. The lack of this experimental data has forced spacecraft designers to base their designs and safety precautions on 1-g understanding of flame spread, flame self-extinguishment, fire detection, and suppression. The Saffire experiment was developed by an international team of investigators with the goal of addressing open issues in spacecraft fire safety. NASA’s Spacecraft Fire Safety Demonstration Project was designed with the goal of conducting a series of large-scale experiments in spacecraft environments that represent practical spacecraft fires. The final flight examined concurrent spread over large samples (all 41 cm wide) including a thin sheet of flammable fuel (cotton/fiberglass 50 cm long); 2-sided spread over 1 cm thick polymethyl methacrylate (PMMA) (18 cm long); 1-sided spread over 0.5 cm thick (18 cm long); and Nomex fabric (7 cm long). This paper focusses on the two-sided PMMA sample. The flame heat release is determined and is compared to the overall temperature rise in the spacecraft and the change in the concentration of carbon dioxide and carbon monoxide in the spacecraft."
+  },
+  {
+   "id": "20240002981",
+   "title": "Preliminary Results from the Saffire VI Experiment",
+   "doc_type": "Conference paper",
+   "published": "2024-07-21",
+   "report_number": "ICES-2024-365",
+   "program": "Saffire",
+   "center": "Glenn Research Center",
+   "authors": "Urban, D. L.; Ruff, G. A.; Ferkul, P.; et al.",
+   "rights": "Portions may include copyright protected material",
+   "indexed": true,
+   "loc_kind": "abstract",
+   "pdf_url": "https://ntrs.nasa.gov/api/citations/20240002981/downloads/Saffire-ICES-2024-ICES-365-accepted%20final.pdf",
+   "source_url": "https://ntrs.nasa.gov/citations/20240002981",
+   "categories": [
+    "Spacecraft fire safety",
+    "Large-scale fire tests",
+    "Combustion products"
+   ],
+   "keywords": [],
+   "abstract": null
+  },
+  {
+   "id": "20210011385",
+   "title": "Burning and Suppression of Solids–II (BASS-II) Summary Report",
+   "doc_type": "Technical memorandum",
+   "published": "2021-10-01",
+   "report_number": "E-19939",
+   "program": "BASS-II",
+   "center": "—",
+   "authors": "",
+   "rights": "Use by or on behalf of the US Gov. permitted",
+   "indexed": false,
+   "loc_kind": "page",
+   "pdf_url": null,
+   "source_url": "https://ntrs.nasa.gov/citations/20210011385",
+   "categories": [],
+   "keywords": [],
+   "abstract": null
+  },
+  {
+   "id": "20170008805",
+   "title": "Results of Large-Scale Spacecraft Flammability Tests",
+   "doc_type": "Presentation",
+   "published": "2017-07-16",
+   "report_number": "GRC-E-DAA-TN44517",
+   "program": null,
+   "center": "—",
+   "authors": "",
+   "rights": "Public use permitted",
+   "indexed": false,
+   "loc_kind": "page",
+   "pdf_url": null,
+   "source_url": "https://ntrs.nasa.gov/citations/20170008805",
+   "categories": [
+    "Large-scale fire tests"
+   ],
+   "keywords": [],
+   "abstract": null
+  }
+ ],
+ "passages": [
+  {
+   "id": "S1",
+   "report_id": "20150019858",
+   "locator": "p. 1",
+   "kind": "method",
+   "text": "The main variables tested in BASS-II were ambient oxygen concentration, ventilation flow velocity, and fuel type, thickness, and geometry."
+  },
+  {
+   "id": "S2",
+   "report_id": "20150019858",
+   "locator": "p. 1",
+   "kind": "finding",
+   "text": "The results showed that the majority of the tests had heat release rates well below 100 Watts."
+  },
+  {
+   "id": "S3",
+   "report_id": "20150019858",
+   "locator": "p. 2",
+   "kind": "method",
+   "text": "With no restrictors, the maximum flow velocity was ~55 cm/s, and with two restrictors this was reduced to ~35 cm/s."
+  },
+  {
+   "id": "S4",
+   "report_id": "20150019858",
+   "locator": "p. 3",
+   "kind": "method",
+   "text": "Cast PMMA (polymethylmethacrylate) samples were shaped as rods of various diameters (6.35 to 12.7 mm), thin to thick slabs (0.125 to 5 mm), or a section of a 4 cm diameter sphere. In addition, flat cotton-fiberglass fabric samples were also burned."
+  },
+  {
+   "id": "S5",
+   "report_id": "20150019858",
+   "locator": "p. 4",
+   "kind": "condition",
+   "text": "Oxygen concentrations in the MSG working volume were varied during the testing from ambient ISS oxygen levels (~ 21% O2) down to ~ 14% O2 for very near-limit flames."
+  },
+  {
+   "id": "S6",
+   "report_id": "20150019858",
+   "locator": "p. 6",
+   "kind": "finding",
+   "text": "The concurrent rods produced on average 550 ppm of CO for every 1% of CO2. The opposed rods had a very non-linear response, which may be indicative of a flow effect."
+  },
+  {
+   "id": "S7",
+   "report_id": "20150019858",
+   "locator": "p. 6",
+   "kind": "finding",
+   "text": "The opposed thick slabs fall somewhere in between, producing on average 370 ppm of CO for every 1% of CO2."
+  },
+  {
+   "id": "S8",
+   "report_id": "20150019858",
+   "locator": "p. 7",
+   "kind": "finding",
+   "text": "For efficiently burned flue gasses (boilers, furnaces, etc.), this ratio is on the order of 0.002. As can be seen most of our data is an order of magnitude above that. This indicates that microgravity flames are not very efficient."
+  },
+  {
+   "id": "S9",
+   "report_id": "20150019858",
+   "locator": "p. 7",
+   "kind": "finding",
+   "text": "There is a trend of increasing HRR with increasing ambient oxygen concentration, and the scatter is attributed to the different duct flows between and even within the tests."
+  },
+  {
+   "id": "S10",
+   "report_id": "20150019858",
+   "locator": "p. 7",
+   "kind": "context",
+   "text": "Since the ISS is quite large, the combustion products from a fire of the scale of a BASS-II test would quickly be diluted, so that even within just the US Lab (106 m3 pressurized volume), the CO levels in the lab would only be 1.5 ppm, well below SMAC (Spacecraft Maximum Allowable Concentration) values for even long term exposure (10 ppm)."
+  },
+  {
+   "id": "S11",
+   "report_id": "20150019858",
+   "locator": "p. 9",
+   "kind": "finding",
+   "text": "Using the mass loss data and oxygen consumption data, the global equivalence ratio for the tests is estimated to be 1.3 on average, which indicates the flames were burning fuel rich under the low velocity forced flow conditions."
+  },
+  {
+   "id": "B1",
+   "report_id": "20160000593",
+   "locator": "Objectives",
+   "kind": "context",
+   "text": "Study the ignition, flame growth, flame spread, and extinction limits for solid fuels burning in low-velocity forced flows in microgravity."
+  },
+  {
+   "id": "B2",
+   "report_id": "20160000593",
+   "locator": "Approach",
+   "kind": "method",
+   "text": "Fuel samples were mounted inside a small wind tunnel which could impose airflow speeds up to 40 cm/s. Main variables are airflow speed and oxygen concentration (oxygen varied below 21% by adding nitrogen)."
+  },
+  {
+   "id": "B3",
+   "report_id": "20160000593",
+   "locator": "Hardware",
+   "kind": "method",
+   "text": "Main variables: Airflow speed (0 to 55 cm/s); Oxygen concentration (21% and below)."
+  },
+  {
+   "id": "B4",
+   "report_id": "20160000593",
+   "locator": "Hypotheses",
+   "kind": "hypothesis",
+   "text": "Materials in microgravity, with adequate ventilation, may burn more readily compared to normal gravity with other conditions being identical (pressure, oxygen concentration, temperature, etc.)"
+  },
+  {
+   "id": "B5",
+   "report_id": "20160000593",
+   "locator": "Hypotheses",
+   "kind": "hypothesis",
+   "text": "As a result, the 1-g test currently used by NASA to rate materials for space may need to be re-evaluated from a margin-of-safety point of view."
+  },
+  {
+   "id": "B6",
+   "report_id": "20160000593",
+   "locator": "Residence Time Driven Flame Spread",
+   "kind": "finding",
+   "text": "Sequence of top views showing radiative quenching when flow velocity goes below 2 cm/s. Flame nearing blow off extinction as the flow velocity crosses 40 cm/s."
+  },
+  {
+   "id": "B7",
+   "report_id": "20160000593",
+   "locator": "Residence Time Driven Flame Spread",
+   "kind": "condition",
+   "text": "22 test points obtained with BASS-II experiments. Samples were 1-cm and 2-cm wide sheets of plastic (PMMA; polymethyl methacrylate). Thicknesses were between 0.1 and 0.4 mm."
+  },
+  {
+   "id": "B8",
+   "report_id": "20160000593",
+   "locator": "Material Ignition and Suppression Test",
+   "kind": "condition",
+   "text": "Three different diameters (0.25”, 0.375”, 0.5”) of black and clear PMMA rods were tested. Oxygen concentrations between 16% to 21% and flow velocity between 0.4 cm/sec to 4 cm/sec were tested. The total set of experiments yielded 54 unique flame spread rates."
+  },
+  {
+   "id": "B9",
+   "report_id": "20160000593",
+   "locator": "Material Ignition and Suppression Test",
+   "kind": "finding",
+   "text": "There is a downward trend in flame spread rate as sample diameter increases for both the 1g and μg (microgravity) tests. 1g tests have higher flame spread rates than μg."
+  },
+  {
+   "id": "B10",
+   "report_id": "20160000593",
+   "locator": "Material Ignition and Suppression Test",
+   "kind": "finding",
+   "text": "In μg, there is an upward trend in flame spread rate as the oxygen concentration is increased when averaging over all tested flow velocities."
+  },
+  {
+   "id": "B11",
+   "report_id": "20160000593",
+   "locator": "Narrow Channel Validation",
+   "kind": "condition",
+   "text": "20 test points obtained with BASS-II experiments. Samples were 1-cm and 2-cm wide sheets of plastic (PMMA; polymethyl methacrylate). Thicknesses were between 1 and 5 mm. All tests were opposed-flow flame spread. The initial oxygen level varied between 18% and 20%, but dropped somewhat during each test."
+  },
+  {
+   "id": "B12",
+   "report_id": "20160000593",
+   "locator": "Spacecraft Materials Microgravity Research on Flammability",
+   "kind": "finding",
+   "text": "The 1g blowoff for the ¼” rod is at 16% oxygen, whereas we obtained steady spreading at 13.6% oxygen in BASS-II. Thus the material has a negative Oxygen Margin of Safety of 2.4% O2, and the normal gravity flammability limits should be de-rated by at least that much."
+  },
+  {
+   "id": "B13",
+   "report_id": "20160000593",
+   "locator": "Spacecraft Materials Microgravity Research on Flammability",
+   "kind": "finding",
+   "text": "The minimum in the flammability boundary is at low speed, on the order of diffusive flows. As ambient O2 is reduced, flame temperatures are reduced, which slows down the reaction time. Thus the flow needed to blow off the flame becomes slower as oxygen decreases and the flame temperature is reduced."
+  },
+  {
+   "id": "B14",
+   "report_id": "20160000593",
+   "locator": "Spacecraft Materials Microgravity Research on Flammability",
+   "kind": "condition",
+   "text": "24 plastic rods (PMMA, polymethyl methacrylate) were burned in concurrent (stagnation point) flow obtaining blowoff and quenching extinction limits."
+  },
+  {
+   "id": "B15",
+   "report_id": "20160000593",
+   "locator": "Growth and Extinction Limit",
+   "kind": "condition",
+   "text": "29 tests were conducted in total mostly with cotton-fiberglass fabric (SIBAL) and two with a plastic (PMMA; polymethyl methacrylate) spherical section. This thin SIBAL composite sample (fabric is woven of 75% cotton, 25% fiberglass) is 1.2-cm or 2.2-cm in width, and 10-cm in length."
+  },
+  {
+   "id": "B16",
+   "report_id": "20160000593",
+   "locator": "Growth and Extinction Limit",
+   "kind": "finding",
+   "text": "6 quenching cases (reducing flow) and 1 blow-off case (increasing flow, 1.2-cm wide sample). Long duration microgravity environment of ISS permits us to (1) carry out a clean experiment to demonstrate the low-speed quenching extinction phenomena and (2) demonstrate that steady spread with a limiting flame length can be readily observed in microgravity."
+  },
+  {
+   "id": "B17",
+   "report_id": "20160000593",
+   "locator": "Growth and Extinction Limit",
+   "kind": "condition",
+   "text": "Top view of a typical quenching time sequence. 2.2-cm wide SIBAL fabric sample in 1 atm. and 18.7% O2. Ignited at 5 cm/s flow at right end, then reduced to 2.2 cm/s gradually."
+  },
+  {
+   "id": "F1",
+   "report_id": "20240007488",
+   "locator": "slide 11",
+   "kind": "condition",
+   "text": "Test Matrix (as executed): VI-2 SIBAL cloth, length 50 cm; VI-3 two-sided PMMA, length 18 cm; VI-4 one-sided PMMA, length 18 cm; air flow rate 20 cm/s for each."
+  },
+  {
+   "id": "F2",
+   "report_id": "20240007488",
+   "locator": "slide 13",
+   "kind": "condition",
+   "text": "Oxidizer flow is from the left at 20 cm/s in all cases."
+  },
+  {
+   "id": "F3",
+   "report_id": "20240007488",
+   "locator": "slide 16",
+   "kind": "condition",
+   "text": "Saffire VI-3 (two-sided PMMA): ignition at 637 s; flow was changed from 20 cm/s to 5 cm/s at 1120 seconds; flow terminated at 1420 s."
+  },
+  {
+   "id": "F4",
+   "report_id": "20240002981",
+   "locator": "abstract",
+   "kind": "context",
+   "text": "The final flight examined concurrent spread over large samples (all 41 cm wide), including cotton/fiberglass 50 cm long, 1 cm thick PMMA (18 cm long), 0.5 cm thick PMMA (18 cm long) and Nomex fabric (7 cm long)."
+  },
+  {
+   "id": "F5",
+   "report_id": "20240002981",
+   "locator": "abstract",
+   "kind": "finding",
+   "text": "Overall, the temperature and pressure rise in the spacecraft were found to be less significant than the increase in carbon dioxide and carbon monoxide."
+  },
+  {
+   "id": "F6",
+   "report_id": "20240002981",
+   "locator": "abstract",
+   "kind": "context",
+   "text": "These tests spanned 1.5 to 3.2 kW with free air volumes of 17 to 19 cubic meters."
+  },
+  {
+   "id": "B18",
+   "report_id": "20160000593",
+   "locator": "Why ISS for BASS-II?",
+   "kind": "context",
+   "text": "Practical, realistic fuels in typical geometries are examined, including concurrent and opposed-flow flames for the same geometries, which represent fires spreading with the wind, or fires spreading against the wind, or a wake flame burning behind another object."
+  },
+  {
+   "id": "B19",
+   "report_id": "20160000593",
+   "locator": "Why ISS for BASS-II?",
+   "kind": "context",
+   "text": "Ground-based drop tower testing provides some data, but long-duration microgravity data is needed to study flammability limits for all but the thinnest films."
+  }
+ ],
+ "experiments": [
+  {
+   "id": "bass2-mist",
+   "name": "Material Ignition and Suppression Test",
+   "program": "BASS-II",
+   "lead": "C. Fernandez-Pello",
+   "platform": "ISS, Microgravity Science Glovebox",
+   "report_id": "20160000593",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA rods, black and clear",
+     "passage_id": "B8",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Cylindrical rods",
+     "passage_id": "B8",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "Diameters 0.25”, 0.375”, 0.5”",
+     "passage_id": "B8",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flowDir": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Not stated in this section"
+    },
+    "flow": {
+     "state": "reported",
+     "value": "0.4 to 4 cm/s",
+     "passage_id": "B8",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygen": {
+     "state": "reported",
+     "value": "16% to 21%",
+     "passage_id": "B8",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "pressure": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity (with 1g comparison tests)",
+     "passage_id": "B9",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "54 unique flame spread rates",
+     "passage_id": "B8",
+     "num_value": 54,
+     "num_unit": "flame spread rates",
+     "reason": null
+    },
+    "result": {
+     "state": "reported",
+     "value": "Spread rate fell as diameter grew; 1g rates higher than μg; in μg, rate rose with oxygen",
+     "passage_id": "B9",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "temperature": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "reported",
+     "value": "Small wind tunnel (BASS-II hardware); flow up to 40 cm/s per the poster",
+     "passage_id": "B2",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    }
+   }
+  },
+  {
+   "id": "bass2-smmrf",
+   "name": "Spacecraft Materials Microgravity Research on Flammability",
+   "program": "BASS-II",
+   "lead": "S. Olson",
+   "platform": "ISS, Microgravity Science Glovebox",
+   "report_id": "20160000593",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA rods",
+     "passage_id": "B14",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Cylindrical rods",
+     "passage_id": "B14",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "¼” rod (named in result)",
+     "passage_id": "B12",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Concurrent (stagnation point)",
+     "passage_id": "B14",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Shown only in a figure"
+    },
+    "oxygen": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Range shown only in a figure"
+    },
+    "pressure": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity",
+     "passage_id": "B12",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "24 rods",
+     "passage_id": "B14",
+     "num_value": 24,
+     "num_unit": "rods",
+     "reason": null
+    },
+    "result": {
+     "state": "reported",
+     "value": "Steady spreading at 13.6% O2 in μg vs 1g blowoff at 16%: oxygen margin of safety −2.4% O2",
+     "passage_id": "B12",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "temperature": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "reported",
+     "value": "Small wind tunnel (BASS-II hardware); flow up to 40 cm/s per the poster",
+     "passage_id": "B2",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    }
+   }
+  },
+  {
+   "id": "bass2-rtfs",
+   "name": "Residence Time Driven Flame Spread",
+   "program": "BASS-II",
+   "lead": "S. Bhattacharjee",
+   "platform": "ISS, Microgravity Science Glovebox",
+   "report_id": "20160000593",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA sheets",
+     "passage_id": "B7",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Flat sheets, 1 cm and 2 cm wide",
+     "passage_id": "B7",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "0.1 to 0.4 mm thick",
+     "passage_id": "B7",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Opposed",
+     "passage_id": "B6",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "reported",
+     "value": "Quenching below 2 cm/s; near blow-off above 40 cm/s",
+     "passage_id": "B6",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygen": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "pressure": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity",
+     "passage_id": "B7",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "22 test points",
+     "passage_id": "B7",
+     "num_value": 22,
+     "num_unit": "test points",
+     "reason": null
+    },
+    "result": {
+     "state": "reported",
+     "value": "Radiative quenching at low flow; blow-off extinction at high flow (0.1 mm sample)",
+     "passage_id": "B6",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "temperature": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "reported",
+     "value": "Small wind tunnel (BASS-II hardware); flow up to 40 cm/s per the poster",
+     "passage_id": "B2",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    }
+   }
+  },
+  {
+   "id": "bass2-ncv",
+   "name": "Narrow Channel Validation",
+   "program": "BASS-II",
+   "lead": "F. Miller",
+   "platform": "ISS, Microgravity Science Glovebox",
+   "report_id": "20160000593",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA sheets",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Flat sheets, 1 cm and 2 cm wide",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "1 to 5 mm thick",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Opposed",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Varied during each test; values in figures"
+    },
+    "oxygen": {
+     "state": "reported",
+     "value": "Initial 18% to 20%, dropping during test",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "pressure": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity (compared with 1g Narrow Channel Apparatus)",
+     "passage_id": "B11",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "20 test points",
+     "passage_id": "B11",
+     "num_value": 20,
+     "num_unit": "test points",
+     "reason": null
+    },
+    "result": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Spread rates shown only in figures"
+    },
+    "temperature": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "reported",
+     "value": "Small wind tunnel (BASS-II hardware); flow up to 40 cm/s per the poster",
+     "passage_id": "B2",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    }
+   }
+  },
+  {
+   "id": "bass2-gel",
+   "name": "Growth and Extinction Limit",
+   "program": "BASS-II",
+   "lead": "J. T’ien",
+   "platform": "ISS, Microgravity Science Glovebox",
+   "report_id": "20160000593",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "SIBAL fabric (75% cotton, 25% fiberglass); 2 PMMA spherical sections",
+     "passage_id": "B15",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Flat fabric strips",
+     "passage_id": "B15",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "1.2 or 2.2 cm wide, 10 cm long",
+     "passage_id": "B15",
+     "num_value": 10,
+     "num_unit": "cm length",
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Concurrent",
+     "passage_id": "B16",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "reported",
+     "value": "Example: ignited at 5 cm/s, reduced to 2.2 cm/s",
+     "passage_id": "B17",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygen": {
+     "state": "reported",
+     "value": "Example test: 18.7%",
+     "passage_id": "B17",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "pressure": {
+     "state": "reported",
+     "value": "Example test: 1 atm",
+     "passage_id": "B17",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity",
+     "passage_id": "B16",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "29 tests",
+     "passage_id": "B15",
+     "num_value": 29,
+     "num_unit": "tests",
+     "reason": null
+    },
+    "result": {
+     "state": "reported",
+     "value": "6 quenching cases and 1 blow-off case; steady spread with limiting flame length observed",
+     "passage_id": "B16",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "temperature": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "reported",
+     "value": "Small wind tunnel (BASS-II hardware); flow up to 40 cm/s per the poster",
+     "passage_id": "B2",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    }
+   }
+  },
+  {
+   "id": "saffire6-2",
+   "name": "Saffire VI-2: SIBAL cloth",
+   "program": "Saffire",
+   "lead": "D. Urban et al.",
+   "platform": "Orbiting Cygnus spacecraft",
+   "report_id": "20240007488",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "SIBAL cloth (cotton/fiberglass)",
+     "passage_id": "F1",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Large flat sample, 41 cm wide",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "50 cm long",
+     "passage_id": "F1",
+     "num_value": 50,
+     "num_unit": "cm length",
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Concurrent",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "reported",
+     "value": "20 cm/s",
+     "passage_id": "F1",
+     "num_value": 20,
+     "num_unit": "cm/s",
+     "reason": null
+    },
+    "oxygen": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Atmosphere per test not extracted"
+    },
+    "pressure": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Not extracted"
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity (orbiting spacecraft)",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "1 test",
+     "passage_id": "F1",
+     "num_value": 1,
+     "num_unit": "tests",
+     "reason": null
+    },
+    "result": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Results not extracted"
+    },
+    "temperature": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Ambient temperature per test not in the indexed text; temperature rise is reported as a result"
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Flow unit is described in the paper but not in the indexed passages"
+    }
+   }
+  },
+  {
+   "id": "saffire6-3",
+   "name": "Saffire VI-3: two-sided PMMA",
+   "program": "Saffire",
+   "lead": "D. Urban et al.",
+   "platform": "Orbiting Cygnus spacecraft",
+   "report_id": "20240007488",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA",
+     "passage_id": "F1",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "Two-sided slab, 41 cm wide",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "1 cm thick, 18 cm long",
+     "passage_id": "F4",
+     "num_value": 18,
+     "num_unit": "cm length",
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Concurrent",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "reported",
+     "value": "20 cm/s, reduced to 5 cm/s at 1120 s",
+     "passage_id": "F3",
+     "num_value": 20,
+     "num_unit": "cm/s",
+     "reason": null
+    },
+    "oxygen": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Atmosphere per test not extracted"
+    },
+    "pressure": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Not extracted"
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity (orbiting spacecraft)",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "1 test",
+     "passage_id": "F1",
+     "num_value": 1,
+     "num_unit": "tests",
+     "reason": null
+    },
+    "result": {
+     "state": "reported",
+     "value": "Ignition at 637 s; flow terminated at 1420 s",
+     "passage_id": "F3",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "temperature": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Ambient temperature per test not in the indexed text; temperature rise is reported as a result"
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Flow unit is described in the paper but not in the indexed passages"
+    }
+   }
+  },
+  {
+   "id": "saffire6-4",
+   "name": "Saffire VI-4: one-sided PMMA",
+   "program": "Saffire",
+   "lead": "D. Urban et al.",
+   "platform": "Orbiting Cygnus spacecraft",
+   "report_id": "20240007488",
+   "fields": {
+    "material": {
+     "state": "reported",
+     "value": "PMMA",
+     "passage_id": "F1",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "geometry": {
+     "state": "reported",
+     "value": "One-sided slab, 41 cm wide",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "size": {
+     "state": "reported",
+     "value": "0.5 cm thick, 18 cm long",
+     "passage_id": "F4",
+     "num_value": 18,
+     "num_unit": "cm length",
+     "reason": null
+    },
+    "flowDir": {
+     "state": "reported",
+     "value": "Concurrent",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "flow": {
+     "state": "reported",
+     "value": "20 cm/s",
+     "passage_id": "F1",
+     "num_value": 20,
+     "num_unit": "cm/s",
+     "reason": null
+    },
+    "oxygen": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Atmosphere per test not extracted"
+    },
+    "pressure": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Not extracted"
+    },
+    "gravity": {
+     "state": "reported",
+     "value": "Microgravity (orbiting spacecraft)",
+     "passage_id": "F4",
+     "num_value": null,
+     "num_unit": null,
+     "reason": null
+    },
+    "tests": {
+     "state": "reported",
+     "value": "1 test",
+     "passage_id": "F1",
+     "num_value": 1,
+     "num_unit": "tests",
+     "reason": null
+    },
+    "result": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Results not extracted"
+    },
+    "temperature": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Ambient temperature per test not in the indexed text; temperature rise is reported as a result"
+    },
+    "oxygenBasis": {
+     "state": "not_reported",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Mole or volume basis not stated for this test series in the indexed text"
+    },
+    "apparatus": {
+     "state": "not_extracted",
+     "value": null,
+     "passage_id": null,
+     "num_value": null,
+     "num_unit": null,
+     "reason": "Flow unit is described in the paper but not in the indexed passages"
+    }
+   }
+  }
+ ]
+}

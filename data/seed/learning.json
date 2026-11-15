@@ -1,0 +1,390 @@
+{
+ "note": "Lesson explanations are written by the CTRL+SPACE team. Every statement about NASA results is backed by the listed passage IDs from corpus.json. Explanations are teaching aids, not primary evidence.",
+ "lessons": [
+  {
+   "id": "why-microgravity",
+   "title": "Why fire behaves differently in microgravity",
+   "level": "Beginner",
+   "minutes": 6,
+   "summary": "Buoyancy, why long-duration tests on the ISS matter, and why Earth-based material tests may not be enough.",
+   "sections": [
+    {
+     "heading": "Buoyancy on Earth",
+     "explanation": "On Earth, hot combustion gases are lighter than the surrounding air, so they rise and pull fresh air towards the flame. In microgravity this buoyant flow is greatly reduced, so the air reaching a flame comes mainly from ventilation fans or the experiment’s own flow. The exact effect depends on the experiment and its conditions.",
+     "evidence": [
+      "B2",
+      "B3"
+     ]
+    },
+    {
+     "heading": "Why the ISS?",
+     "explanation": "Drop towers only give a few seconds of microgravity. NASA’s BASS-II team argued that longer microgravity time is needed to study flammability limits for anything thicker than very thin films.",
+     "evidence": [
+      "B19",
+      "B1"
+     ]
+    },
+    {
+     "heading": "A hypothesis, not a result",
+     "explanation": "The BASS-II team stated as a hypothesis that, with enough ventilation, materials may burn more readily in microgravity than in normal gravity. Treat it as a question the experiments set out to test.",
+     "evidence": [
+      "B4",
+      "B5"
+     ]
+    },
+    {
+     "heading": "One measured example",
+     "explanation": "For one ¼” PMMA rod, steady spreading was seen in BASS-II at a lower oxygen level than the normal-gravity blowoff limit. The authors concluded that, for this material, normal-gravity limits should be de-rated. This is one material and one geometry, not a rule for every material.",
+     "evidence": [
+      "B12"
+     ]
+    }
+   ],
+   "topic": "Microgravity combustion",
+   "objectives": [
+    "Explain why buoyant flow is weak in microgravity",
+    "Tell a hypothesis apart from a measured result",
+    "Describe the BASS-II oxygen margin-of-safety finding and its limits"
+   ]
+  },
+  {
+   "id": "flow-and-extinction",
+   "title": "Airflow, quenching and blow-off",
+   "level": "Intermediate",
+   "minutes": 7,
+   "summary": "How very low and very high airflow can both put a flame out.",
+   "sections": [
+    {
+     "heading": "Two ways to go out",
+     "explanation": "In BASS-II thin PMMA tests, flames quenched by radiative losses when the flow became very slow, and approached blow-off when the flow became fast.",
+     "evidence": [
+      "B6",
+      "B7"
+     ]
+    },
+    {
+     "heading": "The flammability boundary",
+     "explanation": "The SMMRF investigation found the lowest point of the PMMA flammability boundary at very low flows, close to diffusive flows. As oxygen drops, the flow needed to blow the flame off also becomes slower.",
+     "evidence": [
+      "B13",
+      "B14"
+     ]
+    },
+    {
+     "heading": "Fabric in concurrent flow",
+     "explanation": "Growth and Extinction Limit tests on SIBAL fabric recorded six quenching cases as flow was reduced and one blow-off case as flow was increased.",
+     "evidence": [
+      "B15",
+      "B16",
+      "B17"
+     ]
+    }
+   ],
+   "topic": "Flame extinction",
+   "objectives": [
+    "Name the two extinction modes seen in BASS-II",
+    "Explain where the PMMA flammability boundary has its minimum",
+    "Relate fabric quenching cases to reduced flow"
+   ]
+  },
+  {
+   "id": "oxygen-and-flammability",
+   "title": "Oxygen concentration and flame spread",
+   "level": "Intermediate",
+   "minutes": 6,
+   "summary": "What BASS-II tests reported about oxygen, and how oxygen was controlled in the glovebox.",
+   "sections": [
+    {
+     "heading": "Controlling oxygen on orbit",
+     "explanation": "BASS-II lowered oxygen by diluting the glovebox atmosphere with nitrogen, from ambient ISS levels down to about 14% for near-limit flames.",
+     "evidence": [
+      "S5",
+      "B2"
+     ]
+    },
+    {
+     "heading": "Spread rate and oxygen",
+     "explanation": "In the Material Ignition and Suppression Test, averaged over all flow velocities, flame spread rate on PMMA rods rose as oxygen increased in microgravity.",
+     "evidence": [
+      "B8",
+      "B10"
+     ]
+    },
+    {
+     "heading": "Diameter and gravity",
+     "explanation": "The same investigation reported lower spread rates for thicker rods, and higher spread rates in normal gravity than in microgravity for these samples.",
+     "evidence": [
+      "B9"
+     ]
+    }
+   ],
+   "topic": "Material flammability",
+   "objectives": [
+    "Describe how BASS-II lowered oxygen on orbit",
+    "State the reported trend of spread rate with oxygen",
+    "Avoid generalising one material’s trend to all materials"
+   ]
+  },
+  {
+   "id": "combustion-products",
+   "title": "Combustion products in a closed spacecraft",
+   "level": "Intermediate",
+   "minutes": 7,
+   "summary": "Heat release, carbon monoxide and fuel-rich flames from BASS-II and Saffire VI.",
+   "sections": [
+    {
+     "heading": "Small flames, measurable products",
+     "explanation": "Most BASS-II flames released well below 100 W, and heat release tended to increase with ambient oxygen.",
+     "evidence": [
+      "S2",
+      "S9"
+     ]
+    },
+    {
+     "heading": "Incomplete combustion",
+     "explanation": "The CO-to-CO2 ratio in BASS-II was about an order of magnitude above efficient flue gases, and the flames were estimated to burn fuel rich on average.",
+     "evidence": [
+      "S8",
+      "S11",
+      "S6"
+     ]
+    },
+    {
+     "heading": "At spacecraft scale",
+     "explanation": "In the large Saffire VI tests aboard a Cygnus spacecraft, the rise in carbon dioxide and carbon monoxide was more significant than the temperature and pressure rise.",
+     "evidence": [
+      "F5",
+      "F6"
+     ]
+    }
+   ],
+   "topic": "Spacecraft fire safety",
+   "objectives": [
+    "Interpret heat release rates of small microgravity flames",
+    "Explain what a high CO/CO2 ratio indicates",
+    "Compare product build-up with temperature rise in Saffire VI"
+   ]
+  },
+  {
+   "id": "opposed-vs-concurrent",
+   "title": "Opposed and concurrent flame spread",
+   "level": "Beginner",
+   "minutes": 5,
+   "summary": "Two flow configurations that experiments keep separate, and why you shouldn’t mix them in comparisons.",
+   "sections": [
+    {
+     "heading": "With or against the wind",
+     "explanation": "Concurrent flames spread in the same direction as the airflow; opposed flames spread against it. BASS-II tested both because they represent different real fire situations.",
+     "evidence": [
+      "B18"
+     ]
+    },
+    {
+     "heading": "Examples in the data",
+     "explanation": "The Narrow Channel Validation tests were all opposed flow, while SMMRF rods and Saffire VI samples burned in concurrent flow.",
+     "evidence": [
+      "B11",
+      "B14",
+      "F4"
+     ]
+    },
+    {
+     "heading": "Comparing fairly",
+     "explanation": "Because the configurations differ, CTRL+SPACE warns you when a comparison mixes opposed and concurrent experiments.",
+     "evidence": [
+      "F2"
+     ]
+    }
+   ],
+   "topic": "Flame spread",
+   "objectives": [
+    "Define opposed and concurrent flame spread",
+    "Identify which experiments used each configuration",
+    "Explain why mixing them in a comparison needs a warning"
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "margin-of-safety",
+   "title": "The oxygen margin of safety",
+   "lesson": "why-microgravity",
+   "pass_score": 2,
+   "summary": "Three questions on the BASS-II SMMRF result for PMMA rods.",
+   "questions": [
+    {
+     "id": "q1",
+     "prompt": "In BASS-II, steady flame spreading on the ¼” PMMA rod was observed at what oxygen level?",
+     "options": [
+      "13.6%",
+      "16%",
+      "18.7%",
+      "21%"
+     ],
+     "answer": 0,
+     "source": "B12"
+    },
+    {
+     "id": "q2",
+     "prompt": "What was the normal-gravity (1g) blowoff limit for the same rod?",
+     "options": [
+      "13.6% oxygen",
+      "14% oxygen",
+      "16% oxygen",
+      "21% oxygen"
+     ],
+     "answer": 2,
+     "source": "B12"
+    },
+    {
+     "id": "q3",
+     "prompt": "What did the authors conclude from the negative oxygen margin of safety?",
+     "options": [
+      "PMMA cannot burn in microgravity",
+      "Normal-gravity flammability limits should be de-rated",
+      "Oxygen has no effect on flame spread",
+      "The 1g test is always conservative"
+     ],
+     "answer": 1,
+     "source": "B12"
+    }
+   ],
+   "difficulty": "Easy",
+   "objective": "Interpret the BASS-II SMMRF result for ¼” PMMA rods.",
+   "background": "A negative oxygen margin of safety means a material kept burning in microgravity below an oxygen level where it stopped in normal gravity.",
+   "instructions": "Choose one answer per question, then submit. Answers are checked against the quoted NASA passage for each question, which is shown after you submit. Your unsent answers are saved on this device."
+  },
+  {
+   "id": "flow-limits",
+   "title": "Flow and extinction limits",
+   "lesson": "flow-and-extinction",
+   "pass_score": 2,
+   "summary": "Quenching, blow-off and Saffire VI airflow.",
+   "questions": [
+    {
+     "id": "q1",
+     "prompt": "Below which flow velocity was radiative quenching shown for thin PMMA sheets?",
+     "options": [
+      "2 cm/s",
+      "5 cm/s",
+      "20 cm/s",
+      "40 cm/s"
+     ],
+     "answer": 0,
+     "source": "B6"
+    },
+    {
+     "id": "q2",
+     "prompt": "How many quenching cases were recorded with SIBAL fabric in the Growth and Extinction Limit tests?",
+     "options": [
+      "1",
+      "3",
+      "6",
+      "29"
+     ],
+     "answer": 2,
+     "source": "B16"
+    },
+    {
+     "id": "q3",
+     "prompt": "What oxidizer flow speed was used for the Saffire VI samples?",
+     "options": [
+      "2.2 cm/s",
+      "5 cm/s",
+      "20 cm/s",
+      "55 cm/s"
+     ],
+     "answer": 2,
+     "source": "F2"
+    }
+   ],
+   "difficulty": "Medium",
+   "objective": "Recall the flow conditions that ended or sustained flames in BASS-II and Saffire VI.",
+   "background": "Low flow can quench a flame through heat losses, and high flow can blow it off.",
+   "instructions": "Choose one answer per question, then submit. Answers are checked against the quoted NASA passage for each question, which is shown after you submit. Your unsent answers are saved on this device."
+  },
+  {
+   "id": "products",
+   "title": "Combustion products",
+   "lesson": "combustion-products",
+   "pass_score": 3,
+   "summary": "Heat release, CO and equivalence ratio.",
+   "questions": [
+    {
+     "id": "q1",
+     "prompt": "What heat release rate did the majority of BASS-II tests have?",
+     "options": [
+      "Well below 100 W",
+      "About 1 kW",
+      "1.5 to 3.2 kW",
+      "Not measured"
+     ],
+     "answer": 0,
+     "source": "S2"
+    },
+    {
+     "id": "q2",
+     "prompt": "What was the average global equivalence ratio estimated for BASS-II flames?",
+     "options": [
+      "0.7, fuel lean",
+      "1.0, stoichiometric",
+      "1.3, fuel rich",
+      "2.4, fuel rich"
+     ],
+     "answer": 2,
+     "source": "S11"
+    },
+    {
+     "id": "q3",
+     "prompt": "On average, how much CO did concurrent PMMA rods produce for every 1% of CO2?",
+     "options": [
+      "10 ppm",
+      "370 ppm",
+      "550 ppm",
+      "1000 ppm"
+     ],
+     "answer": 2,
+     "source": "S6"
+    },
+    {
+     "id": "q4",
+     "prompt": "In Saffire VI, which change was more significant?",
+     "options": [
+      "Spacecraft pressure rise",
+      "Spacecraft temperature rise",
+      "Increase in CO2 and CO",
+      "None was measured"
+     ],
+     "answer": 2,
+     "source": "F5"
+    }
+   ],
+   "difficulty": "Medium",
+   "objective": "Recall what BASS-II and Saffire VI reported about heat release and combustion products.",
+   "background": "Combustion products matter in a closed spacecraft because the crew breathes the same air.",
+   "instructions": "Choose one answer per question, then submit. Answers are checked against the quoted NASA passage for each question, which is shown after you submit. Your unsent answers are saved on this device."
+  }
+ ],
+ "rooms": [
+  {
+   "id": "bass-ii",
+   "name": "BASS-II",
+   "description": "Burning and Suppression of Solids II experiments on the ISS."
+  },
+  {
+   "id": "saffire",
+   "name": "Saffire",
+   "description": "Large-scale spacecraft fire experiments aboard Cygnus."
+  },
+  {
+   "id": "methods",
+   "name": "Methods and data quality",
+   "description": "Extraction, units, missing data and how to compare fairly."
+  },
+  {
+   "id": "general",
+   "name": "General",
+   "description": "Questions and ideas about CTRL+SPACE and microgravity combustion."
+  }
+ ]
+}
