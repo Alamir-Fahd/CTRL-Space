@@ -1,0 +1,9 @@
+# Runtime
+Flask>=3.0,<4
+pdfplumber>=0.11      # PDF page extraction for NTRS imports
+# Testing (optional)
+playwright>=1.40      # browser end-to-end tests: python -m playwright install chromium
+reportlab>=4.0        # generates PDFs for ingestion tests
+# Production server (optional, pick one)
+# waitress>=3.0       # Windows-friendly
+# gunicorn>=22.0      # Linux
