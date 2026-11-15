@@ -1,0 +1,16 @@
+{
+ "run_at": "2026-11-12T23:54:06Z",
+ "corpus_passages": 36,
+ "results": [
+  {
+   "retriever": "BM25 (production)",
+   "n_questions": 12,
+   "recall@6": 0.958,
+   "MRR": 0.854,
+   "median_latency_ms": 0.06
+  }
+ ],
+ "not_evaluated": [
+  "sentence-transformers is not installed: dense retrieval and reranking were NOT evaluated (pip install sentence-transformers)."
+ ]
+}

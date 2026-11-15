@@ -1,0 +1,16 @@
+OK    Database: SQLite integrity check
+OK    Report 20160000593: 19 verified passages
+OK    Report 20150019858: 11 verified passages
+OK    Report 20240007488: 3 verified passages
+OK    Experiment bass2-smmrf: published
+OK    Experiment saffire6-3: published
+OK    Search index: 36 passages indexed
+OK    Demo question: How does oxygen concentration affect flame spread in microgravity?: 17 supporting passages
+OK    Demo question: What happens to flames at very low airflow?: 9 supporting passages
+OK    Demo question: What is the oxygen margin of safety for PMMA rods?: 6 supporting passages
+OK    Asset assets/hero.jpg: present
+OK    Asset js/app.js: present
+OK    Asset css/app.css: present
+WARN  AI provider configured: none: the demo runs in retrieval-only mode (verified evidence, no generated answer)
+
+Overall: WARN | assistant mode: retrieval_only

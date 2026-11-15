@@ -1,0 +1,27 @@
+{
+ "run_at": "2026-11-13T09:28:30Z",
+ "viewports": {},
+ "a11y": {},
+ "perf": {
+  "cold": {
+   "ttfb": 14,
+   "dcl": 158,
+   "load": 159,
+   "js_kb": 190,
+   "css_kb": 35,
+   "img_kb": 95,
+   "first_screen_usable_ms_incl_splash": 1982
+  },
+  "warm": {
+   "ttfb": 7,
+   "dcl": 120,
+   "load": 121,
+   "js_kb": 190,
+   "css_kb": 35,
+   "img_kb": 95,
+   "first_screen_usable_ms_incl_splash": 1382
+  },
+  "tab_switch_research_ms": 85,
+  "assistant_answer_ms_retrieval_only": 1406
+ }
+}

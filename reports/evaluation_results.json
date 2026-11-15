@@ -1,0 +1,225 @@
+{
+ "run_at": "2026-11-12T15:52:56Z",
+ "corpus_passages": 34,
+ "answerable": {
+  "n": 12,
+  "gate_pass_rate": 1.0,
+  "mean_recall@6": 0.958,
+  "MRR": 0.854
+ },
+ "unsupported": {
+  "n": 4,
+  "correctly_refused": 4
+ },
+ "latency_in_process": {
+  "GET /api/search": {
+   "p50_ms": 0.72,
+   "p95_ms": 0.86,
+   "n": 40
+  },
+  "GET /api/reports?q=": {
+   "p50_ms": 0.99,
+   "p95_ms": 1.09,
+   "n": 40
+  },
+  "POST /api/compare (3)": {
+   "p50_ms": 1.16,
+   "p95_ms": 1.89,
+   "n": 40
+  },
+  "POST /api/ask (no provider)": {
+   "p50_ms": 0.66,
+   "p95_ms": 0.75,
+   "n": 40
+  },
+  "index rebuild": {
+   "p50_ms": 1.46,
+   "p95_ms": 2.32,
+   "n": 10
+  }
+ },
+ "items": [
+  {
+   "id": "EV-01",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "B10",
+    "B9",
+    "B8",
+    "S5",
+    "B1",
+    "B13"
+   ]
+  },
+  {
+   "id": "EV-02",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 2,
+   "top6": [
+    "B1",
+    "B13",
+    "S11",
+    "B16",
+    "B6",
+    "B10"
+   ]
+  },
+  {
+   "id": "EV-03",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "B12",
+    "B5",
+    "B8",
+    "B14",
+    "S4",
+    "B11"
+   ]
+  },
+  {
+   "id": "EV-04",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "S8",
+    "B4"
+   ]
+  },
+  {
+   "id": "EV-05",
+   "gate": true,
+   "recall@6": 0.5,
+   "first_relevant_rank": 1,
+   "top6": [
+    "S2",
+    "B9",
+    "B10",
+    "B5",
+    "B8",
+    "B11"
+   ]
+  },
+  {
+   "id": "EV-06",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "S11",
+    "S8",
+    "B1",
+    "B13",
+    "B9",
+    "B6"
+   ]
+  },
+  {
+   "id": "EV-07",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "B9",
+    "B8",
+    "S4",
+    "B7",
+    "B10",
+    "F4"
+   ]
+  },
+  {
+   "id": "EV-08",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "F1",
+    "F3",
+    "F6",
+    "F2",
+    "F5",
+    "B5"
+   ]
+  },
+  {
+   "id": "EV-09",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 2,
+   "top6": [
+    "F5",
+    "S6"
+   ]
+  },
+  {
+   "id": "EV-10",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "B16",
+    "B6"
+   ]
+  },
+  {
+   "id": "EV-11",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 4,
+   "top6": [
+    "S1",
+    "B8",
+    "B10",
+    "S5",
+    "S9",
+    "S11"
+   ]
+  },
+  {
+   "id": "EV-12",
+   "gate": true,
+   "recall@6": 1.0,
+   "first_relevant_rank": 1,
+   "top6": [
+    "B5",
+    "B9"
+   ]
+  },
+  {
+   "id": "RF-01",
+   "gate": false,
+   "pass": true,
+   "top6": []
+  },
+  {
+   "id": "RF-02",
+   "gate": false,
+   "pass": true,
+   "top6": []
+  },
+  {
+   "id": "RF-03",
+   "gate": false,
+   "pass": true,
+   "top6": []
+  },
+  {
+   "id": "RF-04",
+   "gate": false,
+   "pass": true,
+   "top6": [
+    "B2",
+    "B5",
+    "B14",
+    "B7",
+    "B11"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+PASS Pixel 7: launch screen → dashboard
+PASS Pixel 7: menu drawer opens on tap
+PASS Pixel 7: search by tap
+PASS Pixel 7: report details with evidence
+PASS Pixel 7: ticking Compare keeps scroll position
+PASS Pixel 7: compare two experiments by tap
+PASS Pixel 7: assistant returns cited evidence
+PASS Pixel 7: sign in → admin dashboard
+PASS Pixel 7: no sideways scrolling or zoom-out on 13 screens
+PASS Galaxy S9+: launch screen → dashboard
+PASS Galaxy S9+: menu drawer opens on tap
+PASS Galaxy S9+: search by tap
+PASS Galaxy S9+: report details with evidence
+PASS Galaxy S9+: ticking Compare keeps scroll position
+PASS Galaxy S9+: compare two experiments by tap
+PASS Galaxy S9+: assistant returns cited evidence
+PASS Galaxy S9+: sign in → admin dashboard
+PASS Galaxy S9+: no sideways scrolling or zoom-out on 13 screens
+PASS installable-app manifest (standalone, 192 + 512 icons, maskable icon)
+INFO  Pixel 7: viewport 412x839 CSS px, DPR 2.625, touch=True, UA: Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.3...
+PASS  Pixel 7: launch screen → dashboard
+PASS  Pixel 7: menu drawer opens on tap
+PASS  Pixel 7: search by tap
+PASS  Pixel 7: report details with evidence
+PASS  Pixel 7: ticking Compare keeps scroll position
+PASS  Pixel 7: compare two experiments by tap
+PASS  Pixel 7: assistant returns cited evidence
+PASS  Pixel 7: sign in → admin dashboard
+PASS  Pixel 7: no sideways scrolling or zoom-out on 13 screens
+INFO  Pixel 7: controls under 32px tall on Admin: 0 []
+INFO  Galaxy S9+: viewport 320x658 CSS px, DPR 4.5, touch=True, UA: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) A...
+PASS  Galaxy S9+: launch screen → dashboard
+PASS  Galaxy S9+: menu drawer opens on tap
+PASS  Galaxy S9+: search by tap
+PASS  Galaxy S9+: report details with evidence
+PASS  Galaxy S9+: ticking Compare keeps scroll position
+PASS  Galaxy S9+: compare two experiments by tap
+PASS  Galaxy S9+: assistant returns cited evidence
+PASS  Galaxy S9+: sign in → admin dashboard
+PASS  Galaxy S9+: no sideways scrolling or zoom-out on 13 screens
+INFO  Galaxy S9+: controls under 32px tall on Admin: 0 []
+PASS  installable-app manifest (standalone, 192 + 512 icons, maskable icon)
+console/page errors: []

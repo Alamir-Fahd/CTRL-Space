@@ -1,0 +1,22 @@
+PASS 01 Splash: logo, tagline, backend check, then onboarding
+PASS 02 Onboarding: 4 slides, next, get started, persisted
+PASS 03-04 Registration: confirm, terms, show password, interests → home
+PASS 03/05 Login errors and password recovery (no enumeration)
+PASS 07-08 Discover, search results, filter sheet, active chips
+PASS 09 Research details: save, download for offline, citations
+PASS 10 AI assistant: report scope, follow-up, history, export
+PASS 11 AI research analysis: 7 sections
+PASS 12 Evidence library: saved, NASA images (honest offline), downloads
+PASS 13 Collections: create, add, rename, describe
+PASS 14-15/17 Experiment explorer, details, results
+PASS 16 Compare: select, parameters, outcomes, notes, AI summary
+PASS 18-19 Workspace and notes editor (autosave persisted)
+PASS 20 Learning Studio: guided discovery, completion
+PASS 21-24 Notifications, profile, edit profile, settings
+PASS 25-28 Offline (downloaded report, banner, reconnect), demo, about, help
+PASS Navigation: 5 tabs, active state, back, touch targets, no overflow
+PASS AI centerpiece: status, stop generation, evidence labels, limitations, research questions, save, compare from citations
+PASS Search suggestions, System theme, server-down vs offline state
+PASS Sign out
+
+20/20 passed; page errors: []

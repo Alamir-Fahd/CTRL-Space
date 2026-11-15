@@ -1,0 +1,57 @@
+{
+ "run_at": "2026-11-12T23:54:06Z",
+ "corpus_passages": 36,
+ "answerable": {
+  "n": 12,
+  "gate_pass_rate": 1.0,
+  "mean_recall@6": 0.958,
+  "MRR": 0.854
+ },
+ "unsupported": {
+  "n": 4,
+  "correctly_refused": 4
+ },
+ "latency_in_process": {
+  "GET /api/search": {
+   "p50_ms": 0.33,
+   "p95_ms": 0.53,
+   "n": 40
+  },
+  "GET /api/reports?q=": {
+   "p50_ms": 0.53,
+   "p95_ms": 0.66,
+   "n": 40
+  },
+  "POST /api/compare (3)": {
+   "p50_ms": 0.85,
+   "p95_ms": 1.12,
+   "n": 40
+  },
+  "POST /api/ask (no provider)": {
+   "p50_ms": 0.71,
+   "p95_ms": 0.88,
+   "n": 40
+  },
+  "index rebuild": {
+   "p50_ms": 1.13,
+   "p95_ms": 1.23,
+   "n": 10
+  }
+ }
+}
+{'id': 'EV-01', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['B10', 'B9', 'B8', 'S5', 'B1', 'B3']}
+{'id': 'EV-02', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 2, 'top6': ['B1', 'B13', 'S11', 'B16', 'B6', 'B18']}
+{'id': 'EV-03', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['B12', 'B5', 'B8', 'B14', 'S4', 'B11']}
+{'id': 'EV-04', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['S8', 'B4']}
+{'id': 'EV-05', 'gate': True, 'recall@6': 0.5, 'first_relevant_rank': 1, 'top6': ['S2', 'B9', 'B10', 'B5', 'B8', 'B11']}
+{'id': 'EV-06', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['S11', 'S8', 'B18', 'B1', 'B13', 'B9']}
+{'id': 'EV-07', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['B9', 'B8', 'S4', 'B7', 'F4', 'B10']}
+{'id': 'EV-08', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['F1', 'F3', 'F6', 'F2', 'F5', 'B5']}
+{'id': 'EV-09', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 2, 'top6': ['F5', 'S6']}
+{'id': 'EV-10', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['B16', 'B6']}
+{'id': 'EV-11', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 4, 'top6': ['S1', 'B8', 'B10', 'S5', 'S9', 'S11']}
+{'id': 'EV-12', 'gate': True, 'recall@6': 1.0, 'first_relevant_rank': 1, 'top6': ['B5', 'B9']}
+{'id': 'RF-01', 'gate': False, 'pass': True, 'top6': []}
+{'id': 'RF-02', 'gate': False, 'pass': True, 'top6': []}
+{'id': 'RF-03', 'gate': False, 'pass': True, 'top6': []}
+{'id': 'RF-04', 'gate': False, 'pass': True, 'top6': ['B2', 'B5', 'B14', 'B7', 'B11']}

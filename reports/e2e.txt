@@ -1,0 +1,21 @@
+PASS  Launch: logo, backend check, then dashboard                                                    1.5s
+PASS  01 Home: hero actions, 6 quick cards, real overview, recent research                           0.6s
+PASS  Landing: problem, solution, innovation, impact + how it works                                  1.5s
+PASS  Journey A: search → filters → results → report → evidence → NASA source                        1.5s
+PASS  Journey B: assistant validation, evidence answer, insufficient evidence                        2.3s
+PASS  Assistant: question analysis, coverage, retrieval-only structured evidence, brief              2.1s
+PASS  Journey C: explorer → details → add → select another → compare → export                        4.0s
+PASS  Compare: three levels, statement types, normalized units                                       3.5s
+PASS  Journey D: save report → My Research → collection → reopen                                     3.1s
+PASS  Journey E: library → filter → report → extracted pages → source → back                         1.0s
+PASS  10 Studio: topics, objectives, evidence, prev/next, completion                                 0.9s
+PASS  11 Challenges: details, saved draft, grading with sources, status                              3.7s
+PASS  12 Community: share, post, edit, reply; second user reports                                    6.1s
+PASS  13 Profile & settings: privacy, sessions, theme, password                                      3.8s
+PASS  Journey F: admin health → report → flag evidence → review → reject/approve experiment → audit  8.2s
+PASS  Research gaps: corpus-scoped and typed                                                         0.6s
+PASS  Demo mode: preflight, guided journey, live brief                                               0.7s
+PASS  Honest states: 404 route, missing report, hidden post                                          4.3s
+PASS  Mobile: menu drawer, no horizontal scroll                                                      
+
+19/19 passed; console errors: 0

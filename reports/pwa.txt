@@ -1,0 +1,10 @@
+PASS Service worker controls the app 
+PASS Chromium installability check: no errors []
+PASS Manifest parses cleanly 
+PASS Bottom tab bar (5 tabs) 
+PASS Offline: opens straight to a saved report 
+PASS Offline: banner shown 
+PASS Offline: unvisited report gives an honest error 
+PASS Back online: banner hidden 
+PASS Settings shows install instructions when signed out 
+page errors: []

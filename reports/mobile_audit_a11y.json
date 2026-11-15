@@ -1,0 +1,23 @@
+{
+ "run_at": "2026-11-13T09:34:24Z",
+ "viewports": {},
+ "a11y": {
+  "dark": {
+   "unnamed": [],
+   "unlabeled": [],
+   "noalt": [],
+   "contrast": [],
+   "missing_heading": [],
+   "contrast_failures": 0
+  },
+  "light": {
+   "unnamed": [],
+   "unlabeled": [],
+   "noalt": [],
+   "contrast": [],
+   "missing_heading": [],
+   "contrast_failures": 0
+  }
+ },
+ "perf": {}
+}

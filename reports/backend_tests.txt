@@ -1,0 +1,23 @@
+...../usr/lib/python3.12/json/decoder.py:353: ResourceWarning: unclosed file <_io.BufferedReader name='/home/claude/ctrl-space/frontend/index.html'>
+  obj, end = self.scan_once(s, idx)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+............................................../home/claude/ctrl-space/tests/test_backend.py:958: ResourceWarning: unclosed file <_io.BufferedReader name='/home/claude/ctrl-space/frontend/index.html'>
+  self.assertIn('https://images-assets.nasa.gov', c.get('/').headers['Content-Security-Policy'])
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+......../home/claude/ctrl-space/tests/test_backend.py:1014: ResourceWarning: unclosed file <_io.BufferedReader name='/home/claude/ctrl-space/frontend/app/index.html'>
+  r = self.c.get(path)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/claude/ctrl-space/tests/test_backend.py:1016: ResourceWarning: unclosed file <_io.BufferedReader name='/home/claude/ctrl-space/frontend/manifest.webmanifest'>
+  self.assertIn(b'"start_url": "/app?source=pwa"', self.c.get('/manifest.webmanifest').data)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.12/unittest/case.py:589: ResourceWarning: unclosed file <_io.BufferedReader name='/home/claude/ctrl-space/frontend/app/index.html'>
+  if method() is not None:
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+............/home/claude/ctrl-space/tests/test_backend.py:542: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmp5h2xl2e2/l.json' mode='w' encoding='utf-8'>
+  json.dump({'lessons': [{'id': 'x', 'title': 't', 'level': 'l', 'minutes': 1, 'summary': 's', 'sections': [{'heading': 'h', 'explanation': 'e', 'evidence': ['NOPE']}]}],
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+.................
+----------------------------------------------------------------------
+Ran 88 tests in 13.237s
+
+OK

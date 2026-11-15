@@ -1,0 +1,20 @@
+{"version": "1.0", "frozen": "2026-11-12",
+ "note": "Expected passages were chosen by reading the verbatim source passages in data/seed/corpus.json before running the system. 'refuse' items must fail the evidence gate.",
+ "items": [
+  {"id": "EV-01", "q": "How does oxygen concentration affect flame spread rate in microgravity?", "expect": ["B10"]},
+  {"id": "EV-02", "q": "What happens to the flame at very low flow velocity?", "expect": ["B6", "B13"]},
+  {"id": "EV-03", "q": "What is the oxygen margin of safety for PMMA rods?", "expect": ["B12"]},
+  {"id": "EV-04", "q": "How efficient is combustion in microgravity compared with flue gases?", "expect": ["S8"]},
+  {"id": "EV-05", "q": "What heat release rates did the BASS-II tests have?", "expect": ["S2", "S9"]},
+  {"id": "EV-06", "q": "What was the global equivalence ratio of the BASS-II flames?", "expect": ["S11"]},
+  {"id": "EV-07", "q": "How does sample diameter affect flame spread rate of PMMA rods?", "expect": ["B9"]},
+  {"id": "EV-08", "q": "What airflow was used in the Saffire VI tests?", "expect": ["F1", "F2"]},
+  {"id": "EV-09", "q": "How much carbon monoxide did concurrent rods produce per CO2?", "expect": ["S6"]},
+  {"id": "EV-10", "q": "How many quenching and blow-off cases were seen with SIBAL fabric?", "expect": ["B16"]},
+  {"id": "EV-11", "q": "What oxygen range was tested in the BASS-II glovebox?", "expect": ["S5"]},
+  {"id": "EV-12", "q": "Does the 1g materials test need re-evaluation for space?", "expect": ["B5"]},
+  {"id": "RF-01", "q": "What is the best pizza topping in Cairo?", "refuse": true},
+  {"id": "RF-02", "q": "How does Mars dust affect solar panel output?", "refuse": true},
+  {"id": "RF-03", "q": "Who won the football match yesterday evening?", "refuse": true},
+  {"id": "RF-04", "q": "What is the boiling point of liquid nitrogen?", "refuse": true}
+ ]}

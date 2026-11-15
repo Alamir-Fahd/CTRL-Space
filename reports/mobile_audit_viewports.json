@@ -1,0 +1,52 @@
+{
+ "run_at": "2026-11-13T09:30:57Z",
+ "viewports": {
+  "320": {
+   "size": "320x640",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "360": {
+   "size": "360x740",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "375": {
+   "size": "375x667",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "390": {
+   "size": "390x844",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "412": {
+   "size": "412x915",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "430": {
+   "size": "430x932",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "tablet": {
+   "size": "820x1180",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "desktop": {
+   "size": "1280x800",
+   "routes": 16,
+   "horizontal_overflow": []
+  },
+  "landscape": {
+   "size": "844x390",
+   "routes": 16,
+   "horizontal_overflow": []
+  }
+ },
+ "a11y": {},
+ "perf": {}
+}

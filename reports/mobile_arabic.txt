@@ -1,0 +1,7 @@
+PASS Switch to Arabic from onboarding: RTL + translated slides
+PASS Arabic registration: validation message, account created, Arabic tab bar
+PASS Assistant in Arabic: labels translated, NASA evidence verbatim
+PASS Compare in Arabic: count, notes, no overflow in RTL
+PASS Switch back to English from Settings
+
+5/5 passed; page errors: []
